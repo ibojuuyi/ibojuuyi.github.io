@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ibojuuyi.github.io/NpC/sitemap_index.txt
+Sitemap: https://ibojuuyi.github.io/Pkb/sitemap_index.txt
+Sitemap: https://ibojuuyi.github.io/Yps/sitemap_index.txt
+Sitemap: https://ibojuuyi.github.io/gMj/sitemap_index.txt
